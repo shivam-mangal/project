@@ -16,4 +16,4 @@ Sales: Number of units sold;
 
 So, in the above dataset, the sales of the product depend on the advertisement cost of the product.
 
-The dataset will be get from "https://raw.githubusercontent.com/amankharwal/Website-data/master/advertising.csv"
+
